@@ -1,2 +1,3 @@
-# fast_instance_ec2_ubuntu
-fast_instance_ec2_ubuntu
+# Fast Instance EC2 Ubuntu
+
+:-)
