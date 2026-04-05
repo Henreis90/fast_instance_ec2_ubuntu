@@ -1,0 +1,2 @@
+# fast_instance_ec2_ubuntu
+fast_instance_ec2_ubuntu
